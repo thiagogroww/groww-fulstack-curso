@@ -14,7 +14,9 @@ Caso sejam fornecidos valores negativos, retornar erro para o usuário.
 
 */
 function calculaMédia() {
+    if (a == a) {
 
+    }
 }
 
 
